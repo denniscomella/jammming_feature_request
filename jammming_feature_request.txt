@@ -1,0 +1,17 @@
+Jammming app feature request: Audio Previews
+by Dennis Comella for Codecademy
+(dec168@gmail.com)
+
+
+
+https://docs.google.com/document/d/1Xa1l_eboJGayVSdfqiDXUHt2lbO8mpvPVBmgWlxSddU/edit?usp=sharing
+
+
+
+Other feature request ideas:
+- Re-arranging playlist items
+- Browsing multiple songs from the same artist/album
+
+
+-- -- -- -- -- -- -- -- -- -- -- -- 
+https://github.com/denniscomella/jammming
